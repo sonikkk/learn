@@ -1,0 +1,29 @@
+﻿
+1.打开文件:：
+C:\Users\{sonikk2}\.gitconfig
+
+2. 追加配置在文件末尾:
+[http]
+proxy = http://username:password@proxy.at.your.org:8080
+
+proxy = http://username:password@proxy.at.your.org:8080
+
+
+或者：
+http://my.oschina.net/tearlight/blog/194475
+
+[http]
+    proxy = 127.0.0.1:8087 sslVerify = false
+
+[https]
+    proxy = 127.0.0.1:8087 sslVerify = false
+
+
+
+[http]
+
+	proxy = proxy.tencent.com:8080 sslVerify = false
+
+[https]
+    
+	proxy = proxy.tencent.com:8080 sslVerify = false
