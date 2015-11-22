@@ -1,0 +1,6 @@
+﻿
+1. 官网下载ndk
+https://developer.android.com/ndk/downloads/index.html
+
+2. 官网下载ndk的示例代码
+https://github.com/googlesamples/android-ndk/tree/android-mk
