@@ -11,9 +11,13 @@ youtube:
 http://en.savefrom.net/
 
 How To Use GitHub for Windows
-2014-10-4
+2014-10-04
 https://www.youtube.com/watch?v=LufnCoPShZE
 
 How To Use GitHub For Windows (Updated 2015)
-2015-8-22
+2015-08-22
 https://www.youtube.com/watch?v=ozI34hW-JME
+
+GitHub For Windows Tutorial #2 : Revert, Roll Back, Push, Publish | WDTutorials.com
+2013-10-06
+https://www.youtube.com/watch?v=mZUSJG7g3-U
